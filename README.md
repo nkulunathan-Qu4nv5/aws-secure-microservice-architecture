@@ -1,4 +1,4 @@
-<img src="Gemini_Generated_Image_n7wlonn7wlonn7wl" width="100%" alt="Secure Microservice Deployment Architecture">
+<img src="hub-banner.png" width="100%" alt="Secure Microservice Deployment Architecture">
 
 # Secure Microservice Deployment on AWS
 
