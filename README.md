@@ -1,4 +1,3 @@
-<img src="hub-banner.png" width="100%" alt="Secure Microservice Deployment Architecture">
 
 # Secure Microservice Deployment on AWS
 
