@@ -1,3 +1,5 @@
+<img src="Gemini_Generated_Image_n7wlonn7wlonn7wl" width="100%" alt="Secure Microservice Deployment Architecture">
+
 # Secure Microservice Deployment on AWS
 
 ## NGINX Reverse Proxy + Python Backend
@@ -9,21 +11,15 @@
 
 ## Architecture Overview
 
-A production-grade cloud architecture deployed on AWS
-featuring complete network isolation between a public-facing
-reverse proxy and a hidden backend application server.
+A production-grade cloud architecture deployed on AWS featuring complete network isolation between a public-facing reverse proxy and a hidden backend application server.
 
-The end user interacts with NGINX on port 80 in the DMZ.
-NGINX forwards requests to a Python microservice on port 5000
-in a private subnet with no public IP and zero direct
-internet exposure.
+The end user interacts with NGINX on port 80 in the DMZ. NGINX forwards requests to a Python microservice on port 5000 in a private subnet with no public IP and zero direct internet exposure.
 
 ---
 
 ## Architecture Diagram
 
 ![Architecture Diagram](architecture-diagram.gif)
-
 
 ## Request Lifecycle
 
@@ -84,9 +80,8 @@ internet exposure.
 
 ## Author
 
-**Nathan NKULU EL BANZE**
-AWS re/Start — Orange Digital Center RDC
-Kinshasa, Democratic Republic of Congo
+**Nathan NKULU EL BANZE** AWS re/Start — Orange Digital Center RDC  
+Kinshasa, Democratic Republic of Congo  
 
 ---
 
